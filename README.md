@@ -1,5 +1,7 @@
 # SeroOpt
-Bayesian optimization for voltammetry. 
+Jupyter notebook tuorials/example guides on using Bayesian optimization for voltammetry. 
+
+Includes use of Scikit-Optimize, Ax/BoTorch packages.
 
 SOO = single objective optimization, MOO = multi-objective optimization 
 
