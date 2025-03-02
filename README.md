@@ -3,7 +3,7 @@ Jupyter notebook tuorials/example guides on using Bayesian optimization for volt
 
 Includes use of Scikit-Optimize, Ax/BoTorch packages.
 
-SOO = single objective optimization, MOO = multi-objective optimization 
+SOO = single objective optimization, MOO = multi-objective optimization (under development)
 
 AC BO = Acceleration Consortium Bayesian Optimization hackathon entries (see below).
 
