@@ -1,4 +1,6 @@
 # SeroOpt
+[![DOI](https://zenodo.org/badge/747372252.svg)](https://doi.org/10.5281/zenodo.15580637)
+
 Jupyter notebook tuorials/example guides on using Bayesian optimization for voltammetry. 
 
 The full data set for the corresponding publication can be found here: https://doi.org/10.5281/zenodo.15339008
